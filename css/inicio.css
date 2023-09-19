@@ -55,6 +55,7 @@ section{
     box-shadow: none;
     border-style: groove;
     border-color: black;
+    height: 520px;
 }
 /* Agrega un box-shadow cuando se pasa el mouse sobre la tarjeta (efecto de elevación) */
 .card:hover {
