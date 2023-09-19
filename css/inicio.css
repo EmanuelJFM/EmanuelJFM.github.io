@@ -57,6 +57,10 @@ section{
     border-color: black;
     height: 520px;
 }
+.img-buro{
+    margin-left: 200px;
+    padding: 2px;
+}
 /* Agrega un box-shadow cuando se pasa el mouse sobre la tarjeta (efecto de elevación) */
 .card:hover {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 1); /* Efecto de sombra al pasar el mouse */
